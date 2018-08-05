@@ -1,0 +1,11 @@
+C:\Users\vladi\Downloads\A18 Ex03 VladiBokhman 308921915 DianaKoba 323643932\A18 Ex03 Vladi 308921915 Diana 323643932\obj\x86\Debug\A18 Ex03 Vladi 308921915 Diana 323643932.csprojResolveAssemblyReference.cache
+C:\Users\vladi\Downloads\A18 Ex03 VladiBokhman 308921915 DianaKoba 323643932\A18 Ex03 Vladi 308921915 Diana 323643932\obj\x86\Debug\A18_Ex03_Vladi_308921915_Diana_323643932.FacebookAppUI.resources
+C:\Users\vladi\Downloads\A18 Ex03 VladiBokhman 308921915 DianaKoba 323643932\A18 Ex03 Vladi 308921915 Diana 323643932\obj\x86\Debug\A18_Ex03_Vladi_308921915_Diana_323643932.Properties.Resources.resources
+C:\Users\vladi\Downloads\A18 Ex03 VladiBokhman 308921915 DianaKoba 323643932\A18 Ex03 Vladi 308921915 Diana 323643932\obj\x86\Debug\A18 Ex03 Vladi 308921915 Diana 323643932.csproj.GenerateResource.Cache
+C:\Users\vladi\Downloads\A18 Ex03 VladiBokhman 308921915 DianaKoba 323643932\A18 Ex03 Vladi 308921915 Diana 323643932\obj\x86\Debug\A18 Ex03 Vladi 308921915 Diana 323643932.csproj.CoreCompileInputs.cache
+C:\Users\vladi\Downloads\A18 Ex03 VladiBokhman 308921915 DianaKoba 323643932\A18 Ex03 Vladi 308921915 Diana 323643932\bin\Debug\A18 Ex03 Vladi 308921915 Diana 323643932.exe
+C:\Users\vladi\Downloads\A18 Ex03 VladiBokhman 308921915 DianaKoba 323643932\A18 Ex03 Vladi 308921915 Diana 323643932\bin\Debug\A18 Ex03 Vladi 308921915 Diana 323643932.pdb
+C:\Users\vladi\Downloads\A18 Ex03 VladiBokhman 308921915 DianaKoba 323643932\A18 Ex03 Vladi 308921915 Diana 323643932\bin\Debug\Facebook.dll
+C:\Users\vladi\Downloads\A18 Ex03 VladiBokhman 308921915 DianaKoba 323643932\A18 Ex03 Vladi 308921915 Diana 323643932\bin\Debug\FbGraphApiWrapper.dll
+C:\Users\vladi\Downloads\A18 Ex03 VladiBokhman 308921915 DianaKoba 323643932\A18 Ex03 Vladi 308921915 Diana 323643932\obj\x86\Debug\A18 Ex03 Vladi 308921915 Diana 323643932.exe
+C:\Users\vladi\Downloads\A18 Ex03 VladiBokhman 308921915 DianaKoba 323643932\A18 Ex03 Vladi 308921915 Diana 323643932\obj\x86\Debug\A18 Ex03 Vladi 308921915 Diana 323643932.pdb

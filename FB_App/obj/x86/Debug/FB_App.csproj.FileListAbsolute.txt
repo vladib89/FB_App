@@ -1,0 +1,11 @@
+C:\Users\vladi\Downloads\A18 Ex03 VladiBokhman 308921915 DianaKoba 323643932\FB_App\bin\Debug\FB_App.exe
+C:\Users\vladi\Downloads\A18 Ex03 VladiBokhman 308921915 DianaKoba 323643932\FB_App\bin\Debug\FB_App.pdb
+C:\Users\vladi\Downloads\A18 Ex03 VladiBokhman 308921915 DianaKoba 323643932\FB_App\bin\Debug\Facebook.dll
+C:\Users\vladi\Downloads\A18 Ex03 VladiBokhman 308921915 DianaKoba 323643932\FB_App\bin\Debug\FbGraphApiWrapper.dll
+C:\Users\vladi\Downloads\A18 Ex03 VladiBokhman 308921915 DianaKoba 323643932\FB_App\obj\x86\Debug\FB_App.csprojResolveAssemblyReference.cache
+C:\Users\vladi\Downloads\A18 Ex03 VladiBokhman 308921915 DianaKoba 323643932\FB_App\obj\x86\Debug\FB_App.FacebookAppUI.resources
+C:\Users\vladi\Downloads\A18 Ex03 VladiBokhman 308921915 DianaKoba 323643932\FB_App\obj\x86\Debug\FB_App.Properties.Resources.resources
+C:\Users\vladi\Downloads\A18 Ex03 VladiBokhman 308921915 DianaKoba 323643932\FB_App\obj\x86\Debug\FB_App.csproj.GenerateResource.Cache
+C:\Users\vladi\Downloads\A18 Ex03 VladiBokhman 308921915 DianaKoba 323643932\FB_App\obj\x86\Debug\FB_App.csproj.CoreCompileInputs.cache
+C:\Users\vladi\Downloads\A18 Ex03 VladiBokhman 308921915 DianaKoba 323643932\FB_App\obj\x86\Debug\FB_App.exe
+C:\Users\vladi\Downloads\A18 Ex03 VladiBokhman 308921915 DianaKoba 323643932\FB_App\obj\x86\Debug\FB_App.pdb
